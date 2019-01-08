@@ -1,4 +1,5 @@
 [submodule "monero"]
 	path = monero
 	url = https://github.com/fotolockr/monero
+	branch = build
 	ignore = all
