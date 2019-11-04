@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -v
 
 BUILD_TYPE=$1
 source ./utils.sh

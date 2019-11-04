@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -v
 
 
 function get_platform {
